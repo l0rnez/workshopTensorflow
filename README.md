@@ -1,3 +1,3 @@
 # workshopTensorflow
-docker build -t tensorflowtest .
+docker build -t tensorflowtest .~[Backspace]~
 docker run tensorflowtest
